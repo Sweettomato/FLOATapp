@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">F.L.O.A.T.</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="instructions">The logic of this game is simple, but the execution is not.  You must guide your balloon safely around the obstacles put in its path.  Ground blocks will push your balloon down.  They don’t do any immediate damage, but if your balloon hits the bottom of the screen, it’s game over.  Other obstacles, like the pins, will pop your balloon if you hit them.  Beware, a popped balloon cannot float, and results in game over as well.</string>
+
+</resources>
